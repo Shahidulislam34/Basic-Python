@@ -471,7 +471,7 @@ def game_overview() :
 
     yy -= 50
     set_position(xx, yy)
-    turtle.write("(VIII)The player who can't make a valid move lose the game.", align = "left", font = ("arial", 25, "bold"))
+    turtle.write("(VIII)The player who can't make a valid move loses the game.", align = "left", font = ("arial", 25, "bold"))
 
     yy -= 50
     set_position(xx, yy)
